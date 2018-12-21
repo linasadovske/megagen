@@ -1,0 +1,9 @@
+@import "../../src/sass/owl/owl.carousel.scss";
+@import "../../src/sass/owl/owl.theme.default.scss";
+.owl-carousel {
+    .owl-stage {
+        padding-top: 1rem;        
+        padding-bottom: 3rem;
+    }
+}
+   
